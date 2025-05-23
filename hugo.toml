@@ -1,0 +1,4 @@
+baseURL = 'https://blog.vietlubu.dev/'
+languageCode = 'en-us'
+title = 'đây là blog'
+theme = 'terminal'
