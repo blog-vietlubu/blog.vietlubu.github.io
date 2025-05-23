@@ -1,4 +1,8 @@
-baseURL = 'https://blog.vietlubu.dev/'
-languageCode = 'en-us'
-title = 'đây là blog'
-theme = 'terminal'
+baseURL = "https://blog.vietlubu.dev/"
+languageCode = "vi-vn"
+title = "đây là blog"
+theme = "terminal"
+
+[caches]
+[caches.images]
+dir = ":cacheDir/images"
